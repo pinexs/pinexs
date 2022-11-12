@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @pinexs 
-- .NET developer.
+👋 Hi, I’m Efe
+
